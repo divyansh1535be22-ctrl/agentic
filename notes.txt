@@ -1,0 +1,38 @@
+langchain:
+models :models , indexes, hugging face api and local model pull and then run 
+prompts : static and dynamic inputs list and single input, meaasges , 
+
+
+structured output : 
+resume extraction to database push
+some models can give but some cannot :
+with_sturctured_output (): models with struc output
+output parser():models without struc 
+like tiny llama
+class written in langchain are output parsers :
+:string op parser
+:json 
+:structured op parser
+:pydantic 
+
+STRING OP:converts to string 
+op parser if string is good for pipelining passing data to next node automatically not manually 
+tmeplates , models , parser are the nodes and flow can vary acc
+
+JSON PARSER : no schemas inforcing is there in json object theres is a problem 
+
+STRUCTURED OTPUT PARSER : WE CAN ENFORE A SCHEMA :
+    NO VALIDATION 
+PYDANTIC PARSER:
+    validation using pydanitc 
+
+Runnables are a concept that are basically a solution for problem that they have created like diff syntax for diff components then they used Runnables as abstrat classes to have a standard invoke function     
+
+
+Runnables primitives :
+    sequence 
+    prallel 
+    passthrough
+    lambda : custom Runnables based on a function x
+    brnach : Conditinal logic and 
+

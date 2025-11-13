@@ -36,3 +36,18 @@ Runnables primitives :
     lambda : custom Runnables based on a function x
     brnach : Conditinal logic and 
 
+
+
+
+
+
+
+agentic ai intern:
+DSA -->trees , graph , dp , sliding window , linked list in python (imp)
+OOPS 
+AI ML MODELS AND WHAT TYPE OF MODEL TO USE FOR WHAT TYPE OF TASK 
+MAKING WORKFLOWS AND CREATING A WORKFLOW IN LANGGRHAPH --- i have to mock or creae a object of it 
+LANHCHAIN AND LANGGRHAPH AND WHAT IS EVEN GENERATIVE AI , FROM CAMPUSX VIDEO OF 3 HOURS
+Deep learning basics 
+how vector db works 
+techniques of building an ai agent how do you make an ai agent 
